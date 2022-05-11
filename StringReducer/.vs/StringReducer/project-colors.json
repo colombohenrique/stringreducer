@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8636a14-aa63-4762-85c2-fcedcd409ac6": {
+      "ProjectGuid": "d8636a14-aa63-4762-85c2-fcedcd409ac6",
+      "DisplayName": "StringReducer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
